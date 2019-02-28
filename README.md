@@ -11,4 +11,5 @@ $('.contents').btnLoadmore({
 	whenClickBtn : 1,
 	textBtn : 'Load more ...'
 });
+
 ```
