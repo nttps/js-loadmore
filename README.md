@@ -4,8 +4,11 @@
 
 ## How to use
 
-`$('.contents').btnLoadmore({`
-`                showItem : 2,`
-`                whenClickBtn : 1,`
-`                textBtn : 'Load more ...'`
-`});`
+
+```
+$('.contents').btnLoadmore({
+                showItem : 2,
+                whenClickBtn : 1,
+                textBtn : 'Load more ...'
+});
+```
