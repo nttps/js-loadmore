@@ -6,7 +6,7 @@
 
 you need to do is call the plugin inside a $(document).ready function:
 
-```
+```javascript
 $(document).ready(function(){
 	$('.contents').btnLoadmore();
 });
