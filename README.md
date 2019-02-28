@@ -18,3 +18,14 @@ $(document).ready(function(){
 	$('.contents').btnLoadmore();
 });
 ```
+
+## Options
+
+```javascript
+$('.contents').btnLoadmore({
+	showItem : 2,
+        whenClickBtn : 1,
+	textBtn : 'Load more ...'
+});
+
+```
