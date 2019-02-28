@@ -15,7 +15,7 @@ You need to do is call the plugin inside a $(document).ready function:
 
 ```javascript
 $(document).ready(function(){
-	$('.contents').btnLoadmore();
+$('.contents').btnLoadmore();
 });
 ```
 
@@ -23,9 +23,9 @@ $(document).ready(function(){
 
 ```javascript
 $('.contents').btnLoadmore({
-	showItem : 2,
+    showItem : 2,
     whenClickBtn : 1,
-	textBtn : 'Load more ...'
+    textBtn : 'Load more ...'
 });
 
 ```
