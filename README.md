@@ -27,10 +27,12 @@ $('.contents').btnLoadmore({
     whenClickBtn : 1,
 	textBtn : 'Load more ...'
 });
+
 ```
 
 ## Method
-    * `showItem` : set number of show.
-    * `whenClickBtn` : set number for show element when click button.
-    * `textBtn` : set text on click button.
-    * `classBtn` : set custom class button  .
+ * `showItem` : set number of show.
+ * `whenClickBtn` : set number for show element when click button.
+ * `textBtn` : set text on click button.
+ * `classBtn` : set custom class button  .
+ 
