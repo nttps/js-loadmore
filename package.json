@@ -1,6 +1,6 @@
 {
     "name": "btnloadmorejs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Button Loadmore Contents Element",
     "main": "src/btnloadmore.js",
     "scripts": {
