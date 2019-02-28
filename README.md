@@ -7,8 +7,8 @@
 
 ```
 $('.contents').btnLoadmore({
-                showItem : 2,
-                whenClickBtn : 1,
-                textBtn : 'Load more ...'
+	showItem : 2,
+	whenClickBtn : 1,
+	textBtn : 'Load more ...'
 });
 ```
