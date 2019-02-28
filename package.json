@@ -1,0 +1,22 @@
+{
+    "name": "btnloadmorejs",
+    "version": "1.0.0",
+    "description": "Button Loadmore Contents Element",
+    "main": "src/btnloadmore.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/teamerze/btnloadmorejs.git"
+    },
+    "author": "NTTPS",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://gitlab.com/teamerze/btnloadmorejs/issues"
+    },
+    "homepage": "https://gitlab.com/teamerze/btnloadmorejs#readme",
+    "dependencies": {
+        "jquery": "^3.3.1"
+    }
+}
