@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://gitlab.com/teamerze/btnloadmorejs.git"
+        "url": "git+https://github.com/nttps/js-loadmore.git"
     },
     "author": "NTTPS",
     "license": "MIT",
     "bugs": {
-        "url": "https://gitlab.com/teamerze/btnloadmorejs/issues"
+        "url": "https://github.com/nttps/js-loadmore/issues"
     },
-    "homepage": "https://gitlab.com/teamerze/btnloadmorejs#readme",
+    "homepage": "https://nttps.github.io/js-loadmore/",
     "dependencies": {
         "jquery": "^3.3.1"
     }
