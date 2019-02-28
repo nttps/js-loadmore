@@ -4,12 +4,12 @@
 
 ## How to use
 
+you need to do is call the plugin inside a $(document).ready function:
 
 ```
-$('.contents').btnLoadmore({
-	showItem : 2,
-	whenClickBtn : 1,
-	textBtn : 'Load more ...'
+$(document).ready(function(){
+	$('.contents').btnLoadmore();
 });
+
 
 ```
