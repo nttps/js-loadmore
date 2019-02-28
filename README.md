@@ -8,4 +8,4 @@
                 showItem : 2,
                 whenClickBtn : 1,
                 textBtn : 'Load more ...'
-            });`
+});`
