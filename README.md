@@ -15,7 +15,7 @@ You need to do is call the plugin inside a $(document).ready function:
 
 ```javascript
 $(document).ready(function(){
-$('.contents').btnLoadmore();
+    $('.contents').btnLoadmore();
 });
 ```
 
@@ -30,7 +30,7 @@ $('.contents').btnLoadmore({
 
 ```
 
-## Method
+### Method
  * `showItem` : set number for show element.
  * `whenClickBtn` : set number for show element when click button.
  * `textBtn` : set text on click button.
