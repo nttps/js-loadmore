@@ -1,4 +1,5 @@
 # js Function Button Load more..
+[![StyleCI](https://github.styleci.io/repos/173066745/shield?branch=master)](https://github.styleci.io/repos/173066745)
 
 ****JS Button Load more****
 
